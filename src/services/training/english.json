@@ -1,0 +1,36 @@
+[
+    {
+        "title": "What is POS System",
+        "subtitle": "Learn the hardware components of a POS system",
+        "url": "https://www.youtube.com/embed/2KTk8WMRFpE",
+        "type": "video"
+    },
+    {
+        "title": "How to Use Square Register",
+        "subtitle": "Get to know your Square Register and customer display",
+        "url": "https://www.youtube.com/embed/pEPBl0nSbJw",
+        "type": "video"
+    },
+    {
+        "title": "Unboxing Square Terminal",
+        "subtitle": "Learn more about Square Terminal and it's features",
+        "url": "https://www.youtube.com/embed/JRFoLTUsoK4",
+        "type": "video"
+    },
+
+    {
+        "title": "POS System Electronic Manuals",
+        "url": "https://www.goodson.com.au/sitefiles/documents/spt5570_ume.pdf",
+        "type": "external"
+    },
+    {
+        "title": "POS System Quick Start Guide",
+        "url": "https://www.posmarket.com.my/download/POS-guide-v070214.pdf",
+        "type": "external"
+    },
+    {
+        "title": "POS80 Thermal Printer User’s Manual",
+        "url": "https://www.ers-online.co.uk/files/products/files/User's%20Manual.pdf?srsltid=AfmBOopnmIGBmp8A1rz1pu5ZXcENBg-3N8tJVmC3Szp1ws0gBLKUd2VU",
+        "type": "external"
+    }
+]
